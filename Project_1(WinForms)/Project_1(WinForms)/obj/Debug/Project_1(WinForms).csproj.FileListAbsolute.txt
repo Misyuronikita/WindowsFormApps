@@ -1,0 +1,11 @@
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\bin\Debug\Project_1(WinForms).exe.config
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\bin\Debug\Project_1(WinForms).exe
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\bin\Debug\Project_1(WinForms).pdb
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1_WinForms_.Form1.resources
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1_WinForms_.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).exe
+C:\Users\Nikita\Desktop\Проекты C#\Project_1(WinForms)\Project_1(WinForms)\obj\Debug\Project_1(WinForms).pdb
